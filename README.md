@@ -1,4 +1,4 @@
-# Sklearn-Learn-Pipeline-Demonstration---Iris-Dataset-Analysis
+# Sklearn-Pipeline-Demonstration---Iris-Dataset-Analysis
 ## Introduction
 Most machine learning models require us to perform several data preprocessing steps such as feature scaling, PCA etc. before actually training the model on the data. This leads to a writing a lot of code lines that when written sequentially look messy and the overall approach is not the best in terms readability.
 <br />
