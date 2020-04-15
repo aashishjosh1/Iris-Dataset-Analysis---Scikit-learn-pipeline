@@ -7,7 +7,7 @@ We will be using the iris flower dataset from the sklearn library in order to de
 <br />
 ## About the Dataset
 Iris Flower Dataset
-<br />Data source: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
+<br />Data source: http://archive.ics.uci.edu/ml/datasets/Iris
 <br />
 ## Languages used
 Python
