@@ -6,7 +6,7 @@ Machine learning pipelines can be very handy in this case as they enable a user 
 We will be using the iris flower dataset from the sklearn library in order to demonstrate a machine learning pipeline in this notebook and predict the species of the flower
 <br />
 ## About the Dataset
-Iris Dataset
+Iris Flower Dataset
 <br />Data source: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 <br />
 ## Languages used
